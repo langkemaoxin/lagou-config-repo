@@ -1,4 +1,4 @@
 mysql:
-  url: dev-http://localhost:3306/db200
+  url: dev-http://localhost:3306/db333
 lagou:
   message: hello loagou,3002
